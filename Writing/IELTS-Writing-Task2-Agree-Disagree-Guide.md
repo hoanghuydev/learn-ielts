@@ -813,7 +813,7 @@ BODY 2 — Lý do 2: Có biện pháp hiệu quả hơn — phòng ngừa & ph�
    → NHƯỢNG BỘ: đúng là tội bạo lực nghiêm trọng cần giam giữ dài
 ```
 
-#### ✍️ Bài mẫu (~280 từ):
+#### ✍️ Bài mẫu (~310 từ):
 
 > **[Intro]** It is frequently argued that **extending custodial sentences represents the most effective means of curbing criminal activity**. **While I accept that imprisonment is necessary in certain serious cases, I largely disagree with this claim**, since it **addresses the symptoms of crime rather than its underlying causes**.
 >
@@ -845,7 +845,9 @@ BODY 2 — Lý do 2: Có biện pháp hiệu quả hơn — phòng ngừa & ph�
 
 > **Đề:** *Some people think that **all university students should study whatever they like**. **Others believe that they should only be allowed to study subjects that will be useful in the future, such as those related to science and technology.** **Discuss both these views and give your own opinion.***
 >
-> ⚠️ **Lưu ý:** Đề trên là dạng **Discussion**. Dưới đây là **phiên bản Opinion** của cùng chủ đề — hãy để ý cách bài viết thay đổi:
+> **Nguồn:** Đề gốc trên là **Cambridge IELTS 10, Test 2** — và nó là dạng **Discussion**, không phải Opinion.
+>
+> ⚠️ **Lưu ý:** Dưới đây là **phiên bản Opinion** do tài liệu này chuyển thể từ chính nhận định đó — hãy để ý cách bài viết thay đổi khi đổi dạng đề:
 >
 > **Đề Opinion:** *University students should only be allowed to study subjects that will be useful in the future, such as those related to science and technology. **To what extent do you agree or disagree?***
 
@@ -865,7 +867,7 @@ BODY 2 (KHÔNG ĐỒNG Ý, dài hơn — lập trường chính):
    → (c) cấm đoán vi phạm quyền tự chủ cá nhân
 ```
 
-#### ✍️ Bài mẫu (~295 từ):
+#### ✍️ Bài mẫu (~305 từ):
 
 > **[Intro]** It is sometimes argued that **universities should restrict their students to disciplines with clear practical value**, **particularly in science and technology**. **While I accept that such subjects deserve strong support, I firmly reject the notion that they should be the only permitted option.**
 >
@@ -907,3 +909,460 @@ BODY 2 (KHÔNG ĐỒNG Ý, dài hơn — lập trường chính):
 > 💡 Hãy chép tay **cả hai bài** mỗi bài 2 lần, sau đó tự viết lại không nhìn. Đặc biệt chú ý **câu thesis** và **câu bản lề** (*"However, I would take issue with…"*) — đó là bộ khung tái sử dụng được cho mọi đề Opinion.
 
 ---
+
+<a name="16"></a>
+## 16. Đề luyện tập Cambridge (có gợi ý & đáp án)
+
+> **Cách dùng:** Bấm giờ **40 phút**, viết xong mới mở phần `<details>`. Sau đó tự chấm bằng checklist ở mục 18 — đặc biệt kiểm tra **lập trường có nhất quán từ intro đến conclusion** không.
+>
+> **Tất cả 4 đề dưới đây là đề thật trong sách Cambridge IELTS**, đã đối chiếu với bản scan gốc. Bốn đề được xếp để bạn luyện **cả Cấu trúc A lẫn Cấu trúc B**.
+
+---
+
+### 📝 LUYỆN TẬP 1 — Cambridge IELTS 11, Test 1 (Chi tiêu công / Giao thông)
+
+**Độ khó:** ⭐⭐ (Easy) | **Cấu trúc gợi ý:** A (largely agree) | **Kỹ năng trọng tâm:** Lập trường rõ + nhượng bộ
+
+> *Governments should spend money on railways rather than roads.*
+>
+> ***To what extent do you agree or disagree with this statement?***
+
+**Gợi ý dàn ý** *(lập trường: largely agree)*:
+```
+LẬP TRƯỜNG: Largely agree — ưu tiên đường sắt, nhưng không bỏ hẳn đường bộ
+
+BODY 1 — Lý do 1: Hiệu quả môi trường & năng lực vận chuyển
+   → 1 chuyến tàu chở bằng hàng trăm ô tô, phát thải/người thấp hơn nhiều
+   → đầu tư đường bộ lại tạo ra "nhu cầu cảm ứng": thêm đường → thêm xe → tắc lại
+
+BODY 2 — Lý do 2: Công bằng xã hội
+   → tàu phục vụ cả người không có ô tô: người nghèo, người già, người trẻ
+   → đường bộ chỉ có lợi cho người đủ tiền mua xe
+   → NHƯỢNG BỘ: vùng nông thôn dân cư thưa thì đường sắt không khả thi
+```
+
+<details>
+<summary>👉 Bấm xem ĐÁP ÁN mẫu (Band 7.0)</summary>
+
+> **[Intro]** It is often argued that **public transport budgets should prioritise rail networks over road construction**. **While I accept that roads remain indispensable in certain areas, I largely agree with this view**, **both on environmental grounds and as a matter of social fairness**.
+>
+> **[Body 1 — Lý do 1]** **The primary reason for my position is that** railways **move people far more efficiently** than private vehicles. **A single commuter train can carry** the equivalent of several hundred cars, **yet produces a fraction of the emissions per passenger**, **which means that** shifting travellers onto rail **reduces both congestion and air pollution simultaneously**. **Road investment, by contrast, tends to be self-defeating**: **widening a motorway typically encourages more people to drive**, **with the result that** the new capacity **fills up within a few years** — a pattern transport planners **describe as induced demand**. **Building additional lanes**, in other words, **postpones congestion rather than solving it**.
+>
+> **[Body 2 — Lý do 2 + Nhượng bộ]** **A second, equally important consideration is equity.** **Roads primarily benefit those who can afford a car**, **whereas** a rail network **serves everyone** — **including the elderly, students, low-income households and people unable to drive**. **Public money spent on railways therefore delivers a broader social return**, **since** it **expands access to employment, education and healthcare** for precisely the groups **most likely to be excluded** by a car-dependent system. **Admittedly, rail is not a realistic option everywhere; in sparsely populated rural regions, passenger numbers would never justify the cost of a line, and well-maintained roads remain essential. This, however, is an argument for sensible geographical targeting rather than for treating road and rail as equal priorities nationally.**
+>
+> **[Conclusion]** **In conclusion, although** roads **will continue to be necessary** in rural and remote areas, **I remain convinced that** governments **should direct the bulk of transport funding towards railways**, **which offer** greater environmental efficiency **and** wider social benefit.
+
+**(~295 từ | Band 7.0)**
+
+**Điểm cần học:**
+- *induced demand* → thuật ngữ chuyên ngành dùng đúng chỗ, rất ăn điểm LR
+- *postpones congestion rather than solving it* → lập luận **phản tác dụng**, sắc
+- Nhượng bộ **không làm yếu lập trường** vì có câu xoay lại: *"an argument for sensible geographical targeting rather than for treating road and rail as equal priorities"*
+</details>
+
+---
+
+### 📝 LUYỆN TẬP 2 — Cambridge IELTS 16, Test 3 (Sức khỏe / Chính sách)
+
+**Độ khó:** ⭐⭐⭐ (Medium) | **Cấu trúc gợi ý:** A (agree) | **Kỹ năng trọng tâm:** Chuỗi hệ quả + xử lý phản biện mạnh
+
+> *Many manufactured food and drink products contain high levels of sugar, which causes many health problems. Sugary products should be made more expensive to encourage people to consume less sugar.*
+>
+> ***Do you agree or disagree?***
+
+**Gợi ý dàn ý** *(lập trường: agree)*:
+```
+LẬP TRƯỜNG: Agree (đồng ý tăng giá qua thuế)
+
+BODY 1 — Lý do 1: Giá CÓ tác động thật đến hành vi
+   → bài học từ thuế thuốc lá: giá tăng → tiêu thụ giảm rõ rệt
+   → các nước đã áp thuế nước ngọt ghi nhận doanh số giảm & nhà SX đổi công thức
+   → tác động kép: người mua ít hơn VÀ sản phẩm ít đường hơn
+
+BODY 2 — Lý do 2: Nguồn thu được tái đầu tư cho y tế
+   → tiền thuế → giáo dục dinh dưỡng, bữa ăn học đường, điều trị tiểu đường
+   → NHƯỢNG BỘ: thuế này đánh nặng hơn vào người thu nhập thấp (regressive)
+     → phản biện: chính nhóm này chịu gánh nặng bệnh tật cao nhất; và có thể
+       bù lại bằng trợ giá rau quả tươi
+```
+
+<details>
+<summary>👉 Bấm xem ĐÁP ÁN mẫu (Band 7.0)</summary>
+
+> **[Intro]** **Excessive sugar consumption** has been linked to **obesity, type 2 diabetes and tooth decay**, and some argue that **raising the price of sugary products** would **curb this trend**. **I agree with this proposal**, **since** price **demonstrably shapes consumer behaviour** **and** the revenue raised **can be directed straight back into public health**.
+>
+> **[Body 1 — Lý do 1]** **The strongest argument in favour is that pricing works.** **The experience of tobacco control makes this clear**: **as successive governments raised duties**, smoking rates **fell steadily**, **particularly among young people**, **for whom** cost **is the most significant barrier to purchase**. **The same mechanism applies to sugar.** **In countries that have introduced levies on sweetened drinks**, sales **have declined noticeably**, **and — more importantly — manufacturers have reformulated their products** to fall below the tax threshold. **The effect is therefore twofold**: consumers **buy fewer sugary items**, **while** the items that remain on the shelf **contain less sugar than before** — **a change that benefits even those who take no notice of the price at all**.
+>
+> **[Body 2 — Lý do 2 + Nhượng bộ]** **A second consideration is what happens to the money raised.** **Unlike an outright ban**, a tax **generates substantial revenue**, **which can be allocated to** nutrition education in schools, subsidised sports programmes and the treatment of diet-related illness — **costs that health systems currently absorb without any contribution from the industry that helps create them**. **Admittedly, such taxes are regressive, falling hardest on low-income households; this objection, however, loses much of its force when one considers that these same households suffer the highest rates of diet-related disease**, **and that** governments **can offset the burden** by **simultaneously subsidising fresh fruit and vegetables**.
+>
+> **[Conclusion]** **In conclusion, I firmly support** making sugary products more expensive, **as** higher prices **both reduce consumption and push manufacturers to reformulate**, **while** the revenue generated **can fund the very health measures that excessive sugar makes necessary**.
+
+**(~300 từ | Band 7.0)**
+
+**Điểm cần học:**
+- *The experience of tobacco control makes this clear* → dùng **phép loại suy (analogy)** với một chính sách đã được chứng minh — kỹ thuật lập luận rất mạnh
+- *The effect is therefore twofold* → chỉ rõ **hai tầng tác động**, thể hiện tư duy sâu
+- Nhượng bộ xử lý đúng **phản biện mạnh nhất** (regressive tax) chứ không né tránh → đây là điều giám khảo tìm
+</details>
+
+---
+
+### 📝 LUYỆN TẬP 3 — Cambridge IELTS 13, Test 2 (Xã hội tiêu dùng)
+
+**Độ khó:** ⭐⭐⭐ (Medium-High) | **Cấu trúc gợi ý:** **B (đồng ý một phần)** | **Kỹ năng trọng tâm:** Thesis kép, đề trừu tượng
+
+> *Some people believe that nowadays we have too many choices.*
+>
+> ***To what extent do you agree or disagree with this statement?***
+
+**Gợi ý dàn ý** *(lập trường: đồng ý một phần — Cấu trúc B)*:
+```
+⚠️ Đề rất TRỪU TƯỢNG và NGẮN → phải tự giới hạn phạm vi ngay trong intro
+   Mẹo: tách "lựa chọn tiêu dùng hằng ngày" khỏi "lựa chọn về cuộc đời"
+
+THESIS KÉP: Đồng ý rằng lựa chọn TIÊU DÙNG đã quá tải,
+            nhưng KHÔNG đồng ý rằng ta có quá nhiều lựa chọn về CUỘC ĐỜI
+
+BODY 1 (ĐỒNG Ý, ngắn hơn) — Lựa chọn tiêu dùng gây mệt mỏi quyết định
+   → 40 loại dầu gội, hàng nghìn phim trên streaming
+   → tốn thời gian, và chọn xong vẫn tiếc nuối phương án khác
+
+BODY 2 (KHÔNG ĐỒNG Ý, dài hơn) — Ở những lựa chọn QUAN TRỌNG, ta vẫn còn quá ít
+   → nghề nghiệp, nơi ở, chăm sóc y tế bị giới hạn bởi tiền bạc & hoàn cảnh
+   → với phần lớn nhân loại trong lịch sử, "quá nhiều lựa chọn" là xa xỉ
+   → gộp cả hai vào một câu "too many choices" là đánh đồng sai
+```
+
+<details>
+<summary>👉 Bấm xem ĐÁP ÁN mẫu (Band 7.5)</summary>
+
+> **[Intro]** It is sometimes claimed that **modern life presents us with an excessive range of options**. **I agree that this is true of everyday consumer decisions, where abundance has become genuinely burdensome. I do not accept, however, that it applies to the choices that actually shape people's lives**, **where** meaningful alternatives **remain far more restricted than the statement suggests**.
+>
+> **[Body 1 — Phần tôi ĐỒNG Ý]** **There is undeniable truth in the claim when it comes to consumption.** **A shopper confronted with forty varieties of shampoo**, **or a viewer scrolling through several thousand films**, **must invest time and mental energy in a decision of almost no consequence**. **Psychologists have long observed that** this abundance **produces decision fatigue**, **and that** having rejected thirty-nine alternatives, the buyer **is often less satisfied** with the one selected **than someone choosing between three**. **In this narrow domain**, **fewer options would plainly make life easier**.
+>
+> **[Body 2 — Phần tôi KHÔNG ĐỒNG Ý]** **Where I part company with this view, however, is in its application to significant life decisions.** **For the great majority of people**, the choice of career **is constrained by** family finances, geography and the qualifications they were able to obtain; **the choice of where to live** **is dictated by** housing costs **rather than preference**; **and access to medical treatment** **depends heavily on** what a given health system happens to provide. **These are precisely the areas in which greater choice would be transformative**, **and precisely the areas in which it remains scarce**. **It is also worth remembering that**, **for most of human history and for much of the world today**, the complaint of having too many options **would be an unimaginable luxury**. **To lump trivial and consequential choices together under a single phrase** **is therefore to obscure the real problem**: **not that we have too much choice, but that it is distributed so unevenly**.
+>
+> **[Conclusion]** **In conclusion, while I readily accept that** the sheer volume of consumer options **has become tiring and often counterproductive**, **I do not accept that** people in general **enjoy too many choices**. **The difficulty lies less in abundance than in the fact that the choices which matter most remain the hardest to come by.**
+
+**(~345 từ | Band 7.5)**
+
+**Điểm cần học:**
+- Đề chỉ **7 chữ** và cực trừu tượng → chiến lược sống còn là **tự giới hạn phạm vi** ngay trong intro (tiêu dùng vs cuộc đời)
+- **Thesis kép** chỉ đích danh: đồng ý phần nào (*consumer decisions*), không đồng ý phần nào (*choices that shape people's lives*)
+- *"not that we have too much choice, but that it is distributed so unevenly"* → **tái định nghĩa vấn đề** — tư duy band 8
+- Bài này ~330 từ, hơi dài. Trong phòng thi có thể cắt câu *"It is also worth remembering that…"*.
+</details>
+
+---
+
+### 📝 LUYỆN TẬP 4 — Cambridge IELTS 15, Test 2 (Công nghệ / Truyền thông)
+
+**Độ khó:** ⭐⭐⭐⭐ (High) | **Cấu trúc gợi ý:** A (largely disagree) | **Kỹ năng trọng tâm:** Tấn công từ tuyệt đối
+
+> *In the future, nobody will buy printed newspapers or books because they will be able to read everything they want online without paying.*
+>
+> ***To what extent do you agree or disagree with this statement?***
+
+**Gợi ý dàn ý** *(lập trường: largely disagree)*:
+```
+⚠️ Đề chứa BA điểm yếu để tấn công:
+   (1) "NOBODY" — tuyệt đối
+   (2) "newspapers OR books" — gộp hai thứ rất khác nhau vào một
+   (3) "WITHOUT PAYING" — giả định sai: nội dung chất lượng ngày càng có paywall
+
+LẬP TRƯỜNG: Largely disagree
+
+BODY 1 — Lý do 1: Giả định "miễn phí" đã sai ngay từ bây giờ
+   → báo chất lượng chuyển sang paywall/thuê bao
+   → báo chí cần tiền để tồn tại → nội dung miễn phí thường là loại kém/quảng cáo
+
+BODY 2 — Lý do 2: Sách in có giá trị mà bản số không thay thế được
+   → trải nghiệm đọc, không màn hình, làm quà, sưu tầm, sách ảnh/thiếu nhi
+   → doanh số sách in vẫn ổn định dù ebook đã có hơn 15 năm
+   → NHƯỢNG BỘ: báo giấy thì ĐÚNG là đang suy giảm mạnh
+     → nhưng "suy giảm" ≠ "nobody"
+```
+
+<details>
+<summary>👉 Bấm xem ĐÁP ÁN mẫu (Band 7.5)</summary>
+
+> **[Intro]** It has been predicted that **printed newspapers and books will disappear entirely** **once all written content is freely available online**. **While the direction of travel is clear enough for newspapers, I largely disagree with this claim**, **which rests on two questionable assumptions**: **that online material will be free, and that print and digital serve identical purposes**.
+>
+> **[Body 1 — Lý do 1]** **The first weakness of the prediction is the assumption of free access.** **Quality journalism is expensive to produce**, **requiring** salaried reporters, editors and legal support, **and** the advertising revenue that once funded it **has largely migrated to a handful of technology platforms**. **The response across the industry has been to erect paywalls**, **which means that** serious newspapers **are becoming less freely available online, not more**. **What remains genuinely free** **tends to be** aggregated, superficial or **funded by advertisers with their own agenda** — **a poor substitute** for the reporting that readers are increasingly willing to pay for.
+>
+> **[Body 2 — Lý do 2 + Nhượng bộ]** **The second and more fundamental objection concerns books.** **A printed book offers something a screen cannot replicate**: **reading without notifications, eye strain or a battery**, **the ability to annotate and lend freely**, **and a physical presence that makes it suitable as a gift or a keepsake**. **These qualities explain why**, **more than fifteen years after e-readers became widely available**, **print sales have proved remarkably resilient** **rather than collapsing as predicted**. **Illustrated books and children's books are especially telling**, **since** their value **lies partly in the object itself**. **Admittedly, printed newspapers are in genuine and probably terminal decline**, **as** daily news **is precisely the content that suits a screen best**; **a decline in one format, however, is a long way from the disappearance of print altogether**.
+>
+> **[Conclusion]** **In conclusion, although** printed newspapers **may well vanish within a generation**, **I am not convinced that** books **will follow them**, **since** online content **is unlikely to remain free** **and** the printed book **continues to offer advantages that no digital version has yet matched**.
+
+**(~320 từ | Band 7.5)**
+
+**Điểm cần học:**
+- Intro **chỉ thẳng ra 2 giả định sai** trong đề (*rests on two questionable assumptions*) → cách mở bài rất mạnh cho đề tuyệt đối
+- **Tách "newspapers" khỏi "books"** → chính là cách phá vỡ chữ "nobody": đồng ý báo giấy sẽ chết, không đồng ý sách sẽ chết
+- *a decline in one format is a long way from the disappearance of print altogether* → câu **chốt hạ** đúng vào chữ tuyệt đối
+- Conclusion **không** nói "disagree hoàn toàn" mà nói rõ phần nào đúng, phần nào sai → nhất quán với "largely disagree" ở intro
+</details>
+
+---
+
+### ⚠️ BIẾN THỂ ĐẶC BIỆT — Đề "hai câu hỏi" (Two-part question)
+
+Một số đề Cambridge dạng agree/disagree có **thêm câu hỏi thứ hai**. Bạn **bắt buộc phải trả lời cả hai**, nếu không sẽ mất điểm Task Response.
+
+| Đề | Nguồn |
+|---|---|
+| *Increasing the price of petrol is the best way to solve growing traffic and pollution problems.* **To what extent do you agree or disagree? What other measures do you think might be effective?** | **Cam 8, Test 3** |
+| *It is important for children to learn the difference between right and wrong at an early age. Punishment is necessary to help them learn this distinction.* **To what extent do you agree or disagree with this opinion? What sort of punishment should parents and teachers be allowed to use to teach good behaviour to children?** | **Cam 10, Test 1** |
+
+**Cách xử lý:** Đổi cấu trúc thành:
+```
+Intro (có lập trường)
+Body 1 — Trả lời câu hỏi 1 (agree/disagree + lý do)
+Body 2 — Trả lời câu hỏi 2 (biện pháp khác / hình phạt phù hợp)
+Conclusion — Tóm cả hai
+```
+
+> 💡 **TIP:** Khi đọc đề, hãy **đếm số dấu chấm hỏi**. Hai dấu hỏi = hai việc phải làm.
+
+---
+
+### 📚 Kho đề Cambridge để tự luyện thêm
+
+Đề **agree/disagree** trong sách Cambridge IELTS (đã đối chiếu bản gốc):
+
+| Đề | Nguồn | Chủ đề |
+|---|---|---|
+| *Some people believe that unpaid community service should be a compulsory part of high school programmes (for example working for a charity, improving the neighbourhood or teaching sports to younger children).* **To what extent do you agree or disagree?** | **Cam 9, Test 2** | Giáo dục / Xã hội |
+| *Every year several languages die out. Some people think that this is not important because life will be easier if there are fewer languages in the world.* **To what extent do you agree or disagree with this opinion?** | **Cam 9, Test 4** | Ngôn ngữ / Văn hoá |
+| *Living in a country where you have to speak a foreign language can cause serious social problems, as well as practical problems.* **To what extent do you agree or disagree with this statement?** | **Cam 13, Test 1** | Di cư / Xã hội |
+| *Some people say that music is a good way of bringing people of different cultures and ages together.* **To what extent do you agree or disagree with this opinion?** | **Cam 14, Test 3** | Văn hoá / Âm nhạc |
+| *The most important aim of science should be to improve people's lives.* **To what extent do you agree or disagree with this statement?** | **Cam 18, Test 1** | Khoa học |
+| *The working week should be shorter and workers should have a longer weekend.* **Do you agree or disagree?** | **Cam 19, Test 2** | Việc làm |
+| *It is important for everyone, including young people, to save money for their future.* **To what extent do you agree or disagree with this statement?** | **Cam 19, Test 3** | Tài chính cá nhân |
+
+> 💡 **TIP luyện tập hiệu quả:** Với **mỗi** đề trong bảng, hãy làm bài tập 5 phút: **gạch chân từ tuyệt đối → chọn lập trường → viết 1 câu thesis**. Làm hết 7 đề chỉ mất 35 phút, nhưng luyện được đúng kỹ năng quyết định band của dạng này.
+
+---
+
+<a name="17"></a>
+## 17. Lỗi sai phổ biến (và cách sửa)
+
+| # | Lỗi | Cách sửa |
+|---|-----|----------|
+| 1 | **Không chọn lập trường** — viết cả 2 phía cân bằng rồi kết *"both sides are valid"* | Phải chọn **1 trong 3 lập trường** ở mục 4 và giữ nguyên xuyên suốt |
+| 2 | **Bỏ qua "to what extent"** — chỉ nói agree/disagree, không nêu mức độ | Thêm: *largely / completely / to a considerable extent / with one reservation* |
+| 3 | **Lập trường mâu thuẫn** giữa intro và conclusion | Đọc liền 2 câu thesis & câu kết — phải nói **cùng một điều với cùng mức độ** |
+| 4 | **Body 2 vô tình ủng hộ phía ngược lại** mà không đánh dấu là nhượng bộ | Mọi ý ủng hộ phía kia phải có *"Admittedly / It is true that…"* đứng trước |
+| 5 | **Viết như bài Discussion** (Body 1 = agree, Body 2 = disagree) | Đây là **Cấu trúc C** — không dùng. Chuyển sang Cấu trúc B nếu thấy cả 2 phía mạnh |
+| 6 | **Thesis kiểu thông báo** (*"This essay will discuss…"*) | Thesis phải nói lập trường **LÀ GÌ**: *"I largely disagree because…"* |
+| 7 | **Nêu 4 lý do, không giải thích cái nào** | **2 lý do sâu** (P.E.E, mỗi lý do 5–6 câu) > 4 lý do hời hợt |
+| 8 | **Không có nhượng bộ** → bài phiến diện | Thêm **1 câu** *Admittedly… However…* ở cuối Body 2 |
+| 9 | **Nhượng bộ quá nhiều** (3–4 câu) → tự phá lập trường | **Tối đa 1–2 câu** nhượng bộ trong cả bài |
+| 10 | **Vơ đũa cả nắm** (*"All criminals…", "Everyone knows…"*) | Hedging: *most / tend to / in many cases / it is widely accepted that* |
+| 11 | **Bịa số liệu cụ thể** (*"87.3% of prisoners reoffend"*) | Dùng: *"research consistently shows that…"*, *"a significant proportion of…"* |
+| 12 | **Thêm ý mới trong conclusion** | Conclusion chỉ khẳng định lại lập trường + tóm 2 lý do |
+| 13 | **Lặp nguyên văn topic sentence vào conclusion** | Diễn đạt lại bằng từ khác, gọn hơn |
+| 14 | **Lặp "I think" 5–6 lần** | Luân phiên: *I would argue / In my view / I am convinced / From my perspective* |
+| 15 | **Viết dưới 250 từ** | Nhắm **270–300 từ** |
+| 16 | **Dùng từ quá informal** (*kids, a lot of, stuff, big problem, bad guys*) | Dùng: *children, a considerable number of, issues, serious concern, offenders* |
+
+> ⚠️ **Lỗi nguy hiểm nhất với người Việt:** Tâm lý "nói cả hai phía cho an toàn". Trong IELTS Opinion Essay, **trung dung = mất điểm**. Giám khảo thưởng cho sự **rõ ràng**, không thưởng cho sự **cẩn trọng**.
+
+### Bảng tự chẩn đoán nhanh
+
+| Nếu bài bạn... | Thì bạn đang mất điểm ở |
+|---|---|
+| Đọc xong không biết tác giả đứng phía nào | **TR band 5** — lỗi nặng nhất |
+| Có lập trường nhưng không có chữ chỉ mức độ | **TR** — bỏ qua "to what extent" |
+| Body 1 ủng hộ, Body 2 phản đối, cân bằng 50/50 | **TR** — viết nhầm sang dạng Discussion |
+| Không có câu nào chứa *although / while / admittedly* | **TR + GRA** — phiến diện và thiếu câu phức |
+| Mọi câu bắt đầu bằng *Firstly / Secondly / Finally* | **CC** — "mechanical" |
+| Dùng *"all / always / everyone / never"* nhiều lần | **LR + TR** — thiếu tinh tế học thuật |
+| Conclusion nói khác intro | **TR + CC** — không nhất quán |
+
+---
+
+<a name="18"></a>
+## 18. Checklist trước khi nộp + Quản lý thời gian
+
+### ⏱️ Phân bổ 40 phút cho Task 2 (dạng Opinion):
+
+| Thời gian | Việc làm |
+|-----------|----------|
+| **0–2 phút** | Đọc đề, **gạch chân từ tuyệt đối** (*only / best / always / all*), xác định biến thể |
+| **2–3 phút** | **CHỌN LẬP TRƯỜNG** + chọn cấu trúc (A hay B) — tối đa 60 giây |
+| **3–6 phút** | Brainstorm **2 lý do cho phía đã chọn** + 1 ý nhượng bộ (KHÔNG brainstorm cả 2 phía) |
+| **6–9 phút** | Viết Introduction (thesis có lập trường **và** mức độ) |
+| **9–21 phút** | Viết Body 1 |
+| **21–34 phút** | Viết Body 2 (+ câu nhượng bộ ở cuối nếu dùng Cấu trúc A) |
+| **34–37 phút** | Viết Conclusion |
+| **37–40 phút** | Soát lỗi + đếm từ + **kiểm tra nhất quán intro ↔ conclusion** |
+
+> 💡 **Ưu thế thời gian của dạng Opinion:** Vì chỉ brainstorm **một phía**, bạn tiết kiệm được khoảng **3 phút** so với dạng Discussion. Dùng số thời gian đó để **phát triển ý sâu hơn**, không phải để viết dài hơn.
+
+### ✅ Checklist 60 giây cuối:
+
+**Nhóm A — Task Response (quan trọng nhất):**
+- [ ] Đọc riêng câu thesis — **có nói rõ bạn đứng phía nào** không?
+- [ ] Thesis có từ chỉ **MỨC ĐỘ** (*completely / largely / to a certain extent*) không?
+- [ ] Thesis (intro) và conclusion có nói **cùng một điều** không?
+- [ ] Cả 2 body có **cùng ủng hộ** lập trường đó không (trừ Body 1 của Cấu trúc B)?
+- [ ] Mỗi body có **đúng 1 lý do chính**, được phát triển 5–6 câu?
+- [ ] Có **ví dụ cụ thể** (tên nước / tình huống / nhóm người)?
+- [ ] Có ít nhất **1 câu nhượng bộ**?
+
+**Nhóm B — Coherence & Cohesion:**
+- [ ] Mỗi body có **topic sentence** rõ ở câu đầu?
+- [ ] Có câu **chuyển đoạn** tự nhiên giữa Body 1 và Body 2?
+- [ ] Không dùng *"On the other hand"* để thêm ý **cùng phía**?
+
+**Nhóm C — Lexical & Grammar:**
+- [ ] Không lặp *"I think"* quá 1 lần?
+- [ ] Đã dùng **hedging** (*most / tend to / is likely to*) thay vì *all / always*?
+- [ ] Có câu nhượng bộ (*although / while / despite*), mệnh đề quan hệ, bị động?
+- [ ] Không có từ informal (*kids, stuff, a lot of, gonna*)?
+
+**Nhóm D — Cơ bản:**
+- [ ] Đủ **250+ từ** (nhắm 270–300)?
+- [ ] Intro đã paraphrase, không copy đề?
+- [ ] Conclusion không có ý mới?
+- [ ] Chính tả, dấu câu, số ít/số nhiều?
+
+---
+
+<a name="19"></a>
+## 19. Ngân hàng cụm từ "ăn liền"
+
+### 🟢 Introduction — câu 1 (paraphrase nhận định)
+- *It is frequently argued that [nhận định].*
+- *A commonly held view is that [nhận định].*
+- *There is a widespread belief that [nhận định].*
+- *Many people maintain that [nhận định].*
+- *[Chủ đề] **has become the subject of considerable debate in recent years**.*
+
+### 🟢 Introduction — câu 2 (THESIS — bắt buộc có lập trường + mức độ)
+
+**Đồng ý hoàn toàn:**
+- *I **completely agree** with this view, **for two principal reasons**.*
+- *I **am firmly convinced that** this is the case.*
+
+**Không đồng ý hoàn toàn:**
+- *While this argument **is superficially appealing**, I **strongly disagree** with it.*
+- *I **fundamentally disagree** with this position, **as** [lý do khái quát].*
+
+**Đồng ý phần lớn** ⭐:
+- *I **largely agree** with this claim, **though I would add that** [bảo lưu].*
+- *I **broadly support** this view, **albeit with one important reservation**.*
+
+**Đồng ý một phần (thesis kép):**
+- *While I **accept that** [phần A], I **firmly reject the notion that** [phần B].*
+- *I **agree that** [phần A], **but I do not accept that** [phần B].*
+- *Although [phần A] **is undoubtedly true**, [phần B] **does not follow**.*
+
+### 🟢 Mở đầu Body 1
+- *The **primary reason for my position** is that…*
+- *The **most compelling argument** against this view is that…*
+- *The **principal weakness of this approach** is that…*
+- *(Cấu trúc B) **It is certainly true that**… / **There is undeniable validity in** the concern that…*
+
+### 🟢 Mở đầu Body 2
+- *A **second, equally significant** consideration is that…*
+- *Beyond this, …*
+- ***Furthermore / Moreover**, …*
+- *A **further objection** is that…*
+- *(Cấu trúc B) **However, I would take issue with the far broader claim that**…*
+- *(Cấu trúc B) **Where I part company with this view is** …*
+
+### 🟢 Giải thích cơ chế (E trong P.E.E)
+- *This is because…*
+- *The reason for this is that…*
+- *What this means in practice is that…*
+- *…, **which means that** …*
+- *…, **and this in turn** …*
+- *…, **with the result that** …*
+- *…, **thereby + V-ing** …*
+
+### 🟢 Nêu ví dụ
+- ***For instance / For example**, …*
+- ***A case in point is**…*
+- ***[Country] provides a compelling example**: …*
+- ***[Country] illustrates this point clearly**: …*
+- ***Take [X], for example.***
+- ***Research has consistently shown that**…*
+
+### 🟢 Nhượng bộ (concession) — bắt buộc có 1 câu
+- ***Admittedly**, … **However**, …*
+- ***It is true that** …, **but** …*
+- ***While it may be argued that** …, …*
+- ***Granted**, … **Even so**, …*
+- ***This concern is understandable; nevertheless**, …*
+- ***There is some force in this objection, yet**…*
+
+### 🟢 Phản biện (refutation)
+- ***This view, however, overlooks** the fact that…*
+- ***Such an argument fails to account for**…*
+- ***This objection loses much of its weight when**…*
+- ***This concern is arguably overstated**, since…*
+- ***Critics underestimate** the extent to which…*
+- ***This argument confuses** [X] **with** [Y].*
+- ***The claim rests on the questionable assumption that**…*
+
+### 🟢 Conclusion
+- ***In conclusion, although** [nhượng bộ ngắn], **I remain convinced that** [lập trường].*
+- ***On balance**, the evidence **strongly suggests that** [lập trường].*
+- ***To conclude**, while [phần đồng ý], [phần không đồng ý] — **and it is the latter that matters most**.*
+- ***All things considered**, I **firmly believe that** [lập trường].*
+- *(Cấu trúc B) **In conclusion**, while I **agree that** [A], **I do not accept that** [B].*
+
+### 🟢 Cụm HEDGING (tránh vơ đũa cả nắm — rất quan trọng)
+
+| ❌ Tuyệt đối hoá | ✅ Hedging |
+|---|---|
+| *All students are…* | ***Most** students **tend to** be…* |
+| *Everyone believes…* | ***It is widely believed that**…* |
+| *This always causes…* | *This **frequently** causes…* |
+| *This never works.* | *This **rarely proves** effective.* |
+| *This will definitely…* | *This **is likely to** / **could well**…* |
+| *X is the best solution.* | *X **appears to be** the most effective approach.* |
+| *Poverty causes crime.* | *Poverty **is a significant contributing factor in** crime.* |
+
+### 🟢 Collocations "ăn điểm" theo chủ đề
+
+| Chủ đề | Collocations hay |
+|--------|-----------------|
+| **Tội phạm & luật** | *custodial sentence, deterrent effect, reoffending rate, rehabilitation programme, root causes of crime, restorative justice, law-abiding* |
+| **Giáo dục** | *academic performance, well-rounded education, critical thinking skills, vocational training, rote learning, transferable skills* |
+| **Công nghệ** | *digital divide, automate routine tasks, screen time, data privacy, technological advancement, displace workers* |
+| **Môi trường** | *carbon footprint, sustainable development, renewable energy, environmental degradation, finite resources, at the expense of* |
+| **Chính phủ & chi tiêu công** | *public funding, allocate resources, taxpayers' money, government intervention, budget constraints, place a burden on the public purse* |
+| **Việc làm** | *job satisfaction, work–life balance, career prospects, financial security, labour market, workforce shortages* |
+| **Sức khỏe** | *public health, preventive measures, healthcare provision, mental wellbeing, sedentary lifestyle, life expectancy* |
+| **Xã hội & gia đình** | *social cohesion, family bonds, generation gap, cultural identity, civic duty, individual autonomy* |
+| **Toàn cầu hoá** | *cultural exchange, economic growth, loss of local identity, multinational corporations, interconnected world* |
+
+---
+
+## 🎓 LỘ TRÌNH HỌC ĐỀ XUẤT (6 tuần từ Band 4 lên Band 7)
+
+| Tuần | Mục tiêu | Hành động |
+|------|----------|-----------|
+| **1** | Hiểu "to what extent" & chọn lập trường | Học thuộc mục 2 và mục 4. Lấy **10 đề** Agree/Disagree bất kỳ, **chỉ chọn lập trường + viết 1 câu thesis** cho mỗi đề (5 phút/đề). Chưa viết bài. |
+| **2** | Nắm cấu trúc & viết Introduction | Học mục 5 & 12. Chép tay **Bài mẫu 1** (mục 15) hai lần. Viết Introduction cho 5 đề tuần trước. |
+| **3** | Luyện phát triển ý (P.E.E) | Học mục 7. Lấy 4 lý do bất kỳ, viết mỗi lý do thành đoạn **5–6 câu** theo P.E.E, có chuỗi hệ quả 3 mắt xích. |
+| **4** | Viết bài hoàn chỉnh — Cấu trúc A | Làm **Luyện tập 1**, không bấm giờ. Đối chiếu đáp án, sửa lỗi theo mục 17. Viết lại bản sạch. |
+| **5** | Nhượng bộ, phản biện & Cấu trúc B | Học mục 9 & 10. Chép tay **Bài mẫu 2**. Làm **Luyện tập 2 & 3** — mỗi bài **bắt buộc** có 1 câu nhượng bộ. Bấm giờ 40 phút. |
+| **6** | Hoàn thiện & phản xạ | Làm **Luyện tập 4** + 3 đề Cambridge tự tìm, xen kẽ Cấu trúc A và B. Tự chấm bằng checklist mục 18. Mục tiêu: viết xong trong **35 phút**. |
+
+> **Nguyên tắc bất biến để đạt 7.0 ở dạng Agree & Disagree:**
+> *Lập trường rõ ràng ngay ở intro + Thể hiện được MỨC ĐỘ + Nhất quán từ đầu đến cuối + 2 lý do phát triển sâu (P.E.E) + Một câu nhượng bộ – phản biện + Hedging thay vì tuyệt đối hoá.*
+>
+> Sáu yếu tố này lặp lại trong **mọi** đề Opinion. Luyện đến mức **phản xạ** là bạn chạm band.
+
+---
+
+*Tài liệu này được thiết kế cho người học IELTS từ band 4.0 đến 7.0+. Kết hợp với:*
+- *IELTS-Writing-Task2-Discuss-Both-Views-Guide.md — Dạng trình bày hai quan điểm*
+- *IELTS-Writing-Task2-Problems-Solutions-Guide.md — Dạng vấn đề & giải pháp*
+- *IELTS-Writing-Task2-Causes-Effects-Guide.md — Dạng nguyên nhân & hậu quả*
+
+*Chúc bạn luyện thi hiệu quả! 💪*

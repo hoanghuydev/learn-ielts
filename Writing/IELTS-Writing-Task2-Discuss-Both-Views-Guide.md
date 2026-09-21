@@ -713,6 +713,8 @@ and I firmly believe that [lập trường của bạn].
 ### 📝 Đề bài:
 > *Some people believe that **unpaid community service should be a compulsory part of high school programmes** (for example working for a charity, improving the neighbourhood or teaching sports to younger children). **Others argue that this should remain entirely voluntary.** **Discuss both these views and give your own opinion.***
 
+> **Nguồn:** Phần nhận định gốc lấy từ **Cambridge IELTS 9, Test 2** — đề gốc là dạng *To what extent do you agree or disagree?*. Ở đây nhận định đó được **chuyển thành dạng Discussion** (thêm vế "Others argue…") để minh hoạ cấu trúc bài. Xem đề gốc dạng Opinion trong file `IELTS-Writing-Task2-Agree-Disagree-Guide.md`.
+
 ### 🧭 Dàn ý (lập trong 5 phút):
 ```
 LẬP TRƯỜNG: Ủng hộ BẮT BUỘC → Body 1 = tự nguyện, Body 2 = bắt buộc
@@ -727,7 +729,7 @@ BODY 1 — Phía TỰ NGUYỆN (không đồng ý)      BODY 2 — Phía BẮT B
                                                 không giết động lực
 ```
 
-### ✍️ Bài mẫu (~285 từ):
+### ✍️ Bài mẫu (~315 từ):
 
 > **[Intro]** Whether teenagers **should be required to** undertake unpaid work for their communities **is a question that continues to divide opinion**. **While some maintain that** such schemes **only have value when freely chosen**, **others argue that** they **ought to be built into** the school curriculum. **Although I recognise the force of the first position, I believe that compulsory community service brings benefits that a voluntary system simply cannot deliver.**
 >
@@ -767,3 +769,408 @@ BODY 1 — Phía TỰ NGUYỆN (không đồng ý)      BODY 2 — Phía BẮT B
 > 💡 Hãy chép tay bài này **2–3 lần**, sau đó **tự viết lại** mà không nhìn. Đặc biệt chú ý chép lại đúng 3 câu nêu ý kiến — đó là bộ khung mà bạn sẽ tái sử dụng cho mọi đề Discussion.
 
 ---
+
+<a name="16"></a>
+## 16. Đề luyện tập Cambridge (có gợi ý & đáp án)
+
+> **Cách dùng:** Bấm giờ **40 phút**, viết xong mới mở phần `<details>`. Sau đó tự chấm bằng checklist ở mục 18 — đặc biệt kiểm tra **3 lần nêu ý kiến**.
+>
+> **Tất cả 4 đề dưới đây là đề thật trong sách Cambridge IELTS**, đã đối chiếu với bản scan gốc.
+
+---
+
+### 📝 LUYỆN TẬP 1 — Cambridge IELTS 8, Test 1 (Giáo dục / Gia đình)
+
+**Độ khó:** ⭐⭐ (Easy) | **Kỹ năng trọng tâm:** Tách bạch "họ nghĩ" vs "tôi nghĩ"
+
+> *Some people think that parents should teach children how to be good members of society. Others, however, believe that school is the place to learn this.*
+>
+> ***Discuss both these views and give your own opinion.***
+
+**Gợi ý dàn ý** *(lập trường: nghiêng về gia đình)*:
+```
+BODY 1 — Phía NHÀ TRƯỜNG (không đồng ý)      BODY 2 — Phía GIA ĐÌNH (đồng ý)
+──────────────────────────────────────        ─────────────────────────────────
+1. Trường có môi trường xã hội rộng           1. Thời điểm: trẻ hình thành giá trị
+   → kết bạn, giải quyết mâu thuẫn,              nền tảng TRƯỚC khi đi học
+     hợp tác với hàng chục bạn khác nhau         → khó thay đổi về sau
+2. Giáo viên được đào tạo, áp dụng            2. Nêu gương: trẻ bắt chước người
+   quy tắc nhất quán cho mọi học sinh            sống cùng nhiều hơn người dạy
+   → điều mà nhiều gia đình thiếu               → NHƯỢNG BỘ: không phải nhà nào
+                                                  cũng nêu gương tốt
+```
+
+<details>
+<summary>👉 Bấm xem ĐÁP ÁN mẫu (Band 7.0)</summary>
+
+> **[Intro]** The question of who bears **primary responsibility** for a child's social development — the family or the school — **continues to generate debate**. **While some maintain that** teachers **are best placed to** instil social values, **others insist that** this duty **belongs squarely to** parents. **Although schools clearly make a contribution, I believe the family exerts the more decisive influence.**
+>
+> **[Body 1 — Phía nhà trường]** **Those who favour schools base their case on** the **breadth of social contact** that classrooms provide. **They argue that** a pupil must **negotiate friendships, resolve disputes and cooperate with** dozens of peers from varied backgrounds — situations that **rarely arise** within a single household. **Supporters further point out that** teachers are trained professionals who **apply consistent rules to every child**, whereas standards at home **vary enormously**, particularly where parents work long hours or **hold conflicting views on discipline**.
+>
+> **[Body 2 — Phía gia đình + Opinion]** **Nevertheless, I find the case for parental responsibility considerably more compelling.** **The principal reason is timing**: children **absorb their most fundamental attitudes** towards honesty, fairness and respect **long before they ever enter a classroom**, and these early lessons **prove remarkably difficult to overwrite** later. **A second consideration is example.** Children **imitate the adults they live with** far more readily than those who merely teach them, **which means that** a parent who **queues patiently** or **speaks courteously to strangers** conveys more in a moment than a citizenship lesson achieves in an hour. **Admittedly, not every household provides such a model; however, this argues for supporting struggling parents rather than transferring the responsibility to schools altogether.**
+>
+> **[Conclusion]** **In conclusion, while** schools **undoubtedly reinforce** social norms and offer valuable opportunities for interaction, **I firmly believe that** the foundations of good citizenship **are laid at home**.
+
+**(~275 từ | Band 7.0)**
+
+**Điểm cần học:**
+- *Those who favour schools base their case on… They argue that… Supporters further point out that…* → **ba** cách đánh dấu "quan điểm của họ" trong một đoạn
+- *queues patiently / speaks courteously to strangers* → ví dụ **cụ thể, đời thường** thay vì nói chung chung
+- Nhượng bộ ở cuối Body 2 rồi **xoay ngược lại** ủng hộ lập trường: *"this argues for supporting struggling parents rather than transferring…"*
+</details>
+
+---
+
+### 📝 LUYỆN TẬP 2 — Cambridge IELTS 9, Test 3 (Sức khỏe cộng đồng)
+
+**Độ khó:** ⭐⭐ (Medium) | **Kỹ năng trọng tâm:** Phát triển ý bằng chuỗi hệ quả
+
+> *Some people say that the best way to improve public health is by increasing the number of sports facilities. Others, however, say that this would have little effect on public health and that other measures are required.*
+>
+> ***Discuss both these views and give your own opinion.***
+
+**Gợi ý dàn ý** *(lập trường: nghiêng về "biện pháp khác")*:
+```
+⚠️ Chú ý từ tuyệt đối trong đề: "THE BEST WAY" → dễ phản biện
+
+BODY 1 — Phía SÂN BÃI THỂ THAO          BODY 2 — Phía BIỆN PHÁP KHÁC (của tôi)
+────────────────────────────────         ──────────────────────────────────────
+1. Rào cản tiếp cận là có thật           1. Xây sân bãi không tạo ĐỘNG LỰC
+   → không có bể bơi/sân gần nhà            → nhiều phòng gym vắng người
+     thì khó tập đều                        → vấn đề là thói quen, không phải cơ sở
+2. Cơ sở miễn phí/giá rẻ giúp            2. Chế độ ăn quan trọng hơn vận động
+   người thu nhập thấp                      → thuế đường, ghi nhãn dinh dưỡng,
+                                              hạn chế quảng cáo đồ ăn nhanh
+                                            → NHƯỢNG BỘ: sân bãi vẫn có ích,
+                                              nhưng chỉ là MỘT phần
+```
+
+<details>
+<summary>👉 Bấm xem ĐÁP ÁN mẫu (Band 7.0)</summary>
+
+> **[Intro]** Rising rates of obesity and **lifestyle-related illness** have prompted disagreement over how governments should respond. **One school of thought holds that** building more sports facilities **is the most effective remedy**, **while others contend that** such investment **would achieve little** without broader reforms. **Although I accept that access to facilities matters, I am convinced that other measures would deliver far greater benefits.**
+>
+> **[Body 1 — Phía sân bãi]** **Advocates of expanding sports provision argue that** physical inactivity **is largely a problem of access**. **They maintain that** many people, **especially those on low incomes**, live nowhere near an affordable swimming pool, gym or playing field, **and that** the cost of private membership **puts regular exercise out of reach**. **From this perspective**, publicly funded facilities **would remove a genuine barrier**, **allowing** those who already wish to exercise **to do so without financial strain**.
+>
+> **[Body 2 — Phía biện pháp khác + Opinion]** **I am more persuaded, however, by the argument that facilities alone change very little.** **The core difficulty is motivation rather than availability**: gyms in many affluent cities **stand half empty** despite being plentiful, **which suggests that** the obstacle **lies in habit and priorities**, not in geography. **Equally significant is the role of diet**, which **arguably outweighs exercise entirely** in determining public health. **Measures such as** taxing sugary drinks, **requiring clear nutritional labelling** and **restricting the advertising of processed food to children** **influence the daily choices of millions**, **whereas** a new leisure centre **reaches only those who deliberately visit it**. **Admittedly, facilities do help those already inclined to exercise; the point is simply that they address the willing minority rather than the sedentary majority.**
+>
+> **[Conclusion]** **In conclusion, while** improved sports provision **has a supporting role to play**, **I firmly believe that** dietary regulation and public education **represent the more effective route** to improving population health.
+
+**(~290 từ | Band 7.0)**
+
+**Điểm cần học:**
+- *gyms in many affluent cities stand half empty* → dẫn chứng **phản bác trực tiếp** lập luận ở Body 1
+- *reaches only those who deliberately visit it* vs *influence the daily choices of millions* → **so sánh quy mô tác động**, lập luận rất sắc
+- Nhượng bộ khéo: *"the point is simply that they address the willing minority rather than the sedentary majority"* — thừa nhận nhưng **giới hạn** phạm vi đúng của phía kia
+</details>
+
+---
+
+### 📝 LUYỆN TẬP 3 — Cambridge IELTS 14, Test 2 (Môi trường)
+
+**Độ khó:** ⭐⭐⭐ (Medium-High) | **Kỹ năng trọng tâm:** Lập luận đa tầng, tránh sáo rỗng
+
+> *Some people say that the main environmental problem of our time is the loss of particular species of plants and animals. Others say that there are more important environmental problems.*
+>
+> ***Discuss both these views and give your own opinion.***
+
+**Gợi ý dàn ý** *(lập trường: các vấn đề khác cấp bách hơn — nhưng có góc nhìn tinh tế)*:
+```
+BODY 1 — Phía MẤT ĐA DẠNG SINH HỌC       BODY 2 — Phía VẤN ĐỀ KHÁC (của tôi)
+────────────────────────────────────      ────────────────────────────────────
+1. Tuyệt chủng là KHÔNG THỂ ĐẢO NGƯỢC     1. Biến đổi khí hậu là NGUYÊN NHÂN GỐC
+   → khác ô nhiễm (có thể làm sạch)          → mất loài chỉ là TRIỆU CHỨNG
+2. Hệ sinh thái sụp đổ dây chuyền         → giải quyết gốc thì cứu được cả hai
+   → mất thụ phấn → mất mùa màng          2. Ô nhiễm không khí giết người NGAY
+                                              → hàng triệu ca tử vong sớm/năm
+                                            → NHƯỢNG BỘ: tính không đảo ngược
+                                              của tuyệt chủng là lập luận mạnh
+```
+
+<details>
+<summary>👉 Bấm xem ĐÁP ÁN mẫu (Band 7.0)</summary>
+
+> **[Intro]** **There is considerable disagreement** over which environmental threat **deserves the greatest attention**. **Some commentators identify** the extinction of plant and animal species **as the defining crisis of the age**, **whereas others argue that** problems such as climate change and pollution **are more pressing**. **While the loss of biodiversity is undeniably grave, I side with the latter group.**
+>
+> **[Body 1 — Phía đa dạng sinh học]** **Those who prioritise species loss rest their case on its irreversibility.** **They point out that** polluted rivers **can eventually be cleaned** and damaged forests **replanted**, **but that** an extinct species **is gone permanently**, **taking with it** genetic material that **may never be recovered**. **A second argument concerns interdependence**: ecosystems **function as networks**, **and the disappearance of a single organism** — a pollinating insect, for example — **can trigger cascading failures** that **ultimately threaten food production for humans**.
+>
+> **[Body 2 — Phía vấn đề khác + Opinion]** **I am nonetheless more convinced by those who regard other problems as more urgent.** **My principal reason is causal**: the great majority of species now disappearing **are being lost because of** habitat destruction and a warming climate, **which means that** biodiversity decline **is largely a symptom** rather than the underlying disease. **Tackling emissions** would therefore **address both crises simultaneously**, **whereas** conservation efforts alone **can only slow the losses**. **There is also a question of immediacy**: air pollution **is estimated to cause millions of premature deaths annually**, **a human cost that is occurring now** rather than accumulating over decades. **Admittedly, the permanence of extinction gives that argument real moral force; even so, the most effective way to protect vulnerable species is to confront the forces driving them towards extinction in the first place.**
+>
+> **[Conclusion]** **In conclusion, although** biodiversity loss **is a serious and irreversible harm**, **I believe that** climate change and pollution **represent the more urgent priorities**, **not least because** addressing them **would do most to protect endangered species as well**.
+
+**(~300 từ | Band 7.0)**
+
+**Điểm cần học:**
+- **Lập luận "triệu chứng vs bệnh gốc"** (*symptom rather than the underlying disease*) → đây là kiểu ý tưởng band 7–8, không hiển nhiên
+- Câu cuối conclusion **hoà giải hai phía** mà vẫn giữ lập trường: giải quyết khí hậu **cũng chính là** bảo vệ loài
+- *is estimated to cause millions of premature deaths annually* → dẫn chứng có hedging, **không bịa số chính xác**
+</details>
+
+---
+
+### 📝 LUYỆN TẬP 4 — Cambridge IELTS 17, Test 3 (Việc làm / Toàn cầu hoá)
+
+**Độ khó:** ⭐⭐⭐⭐ (High) | **Kỹ năng trọng tâm:** Đồng ý có điều kiện, xử lý xung đột lợi ích
+
+> *Some people believe that professionals, such as doctors and engineers, should be required to work in the country where they did their training. Others believe they should be free to work in another country if they wish.*
+>
+> ***Discuss both these views and give your own opinion.***
+
+**Gợi ý dàn ý** *(lập trường: ủng hộ tự do di chuyển, nhưng có điều kiện)*:
+```
+BODY 1 — Phía BẮT BUỘC Ở LẠI              BODY 2 — Phía TỰ DO (của tôi)
+──────────────────────────────────         ────────────────────────────────
+1. Đào tạo do TIỀN THUẾ chi trả            1. Quyền tự do cá nhân — không thể
+   → bác sĩ tốn rất nhiều ngân sách            trói người vào nơi họ sinh ra
+   → công bằng khi đòi hỏi phục vụ lại     2. Cưỡng ép phản tác dụng
+2. "Chảy máu chất xám" ở nước đang         → người giỏi sẽ bỏ đi học nước ngoài
+   phát triển → thiếu bác sĩ trầm trọng       ngay từ đầu → mất nhiều hơn
+                                            → NHƯỢNG BỘ: mối lo chảy máu chất
+                                              xám là chính đáng → giải pháp:
+                                              cam kết phục vụ có thời hạn
+```
+
+<details>
+<summary>👉 Bấm xem ĐÁP ÁN mẫu (Band 7.5)</summary>
+
+> **[Intro]** **Whether highly trained professionals should be obliged to remain in the country that educated them is a genuinely difficult question**, **since it sets** a nation's collective investment **against** the individual's right to choose. **Some argue that** graduates **owe a debt of service**, **while others maintain that** freedom of movement **must take precedence**. **Although I recognise the force of the first position, I believe that professionals should ultimately be free to work wherever they choose.**
+>
+> **[Body 1 — Phía bắt buộc]** **Supporters of compulsory service ground their argument in fairness.** **They note that** training a doctor **absorbs an enormous quantity of public money**, **and that** this expenditure **is justified on the understanding that** the community **will eventually benefit**. **When a newly qualified graduate emigrates immediately**, **the taxpayer effectively subsidises** the health system of a wealthier nation. **This concern is particularly acute in developing countries**, **where** the departure of skilled staff **can leave rural hospitals critically understaffed** — a phenomenon **widely described as a brain drain**.
+>
+> **[Body 2 — Phía tự do + Opinion]** **Despite the strength of that reasoning, I am more persuaded by the case for freedom of movement.** **The first objection is one of principle**: **binding adults to the territory in which they happened to be educated** **sits uneasily with** basic notions of personal liberty, **and** no comparable obligation **is imposed on** graduates in other fields. **The second objection is practical**. **Restrictions of this kind tend to be self-defeating**, **since** the most capable students **would simply train abroad from the outset**, **depriving their home countries of** the very people the policy was designed to retain. **Admittedly, the brain-drain problem is real and cannot be dismissed; the answer, however, lies in making domestic careers genuinely attractive** — through competitive pay, functioning equipment and clear promotion paths — **rather than in legal compulsion**.
+>
+> **[Conclusion]** **In conclusion, while** the argument that professionals **owe something to the societies that trained them** **carries real weight**, **I firmly believe that** their freedom to work abroad **should be preserved**, **and that** governments **should retain talent through incentives rather than obligation**.
+
+**(~325 từ | Band 7.5)**
+
+**Điểm cần học:**
+- Intro nêu rõ **bản chất xung đột** (*sets collective investment against individual right*) → thể hiện hiểu đề sâu
+- *Restrictions of this kind tend to be self-defeating* → lập luận **phản tác dụng**, kiểu lập luận rất mạnh
+- Nhượng bộ **kèm giải pháp thay thế** (*the answer lies in… rather than in legal compulsion*) → cách nhượng bộ cao cấp nhất
+- Bài này 320 từ — hơi dài. Nếu thiếu thời gian, cắt bớt 1 câu ở Body 1.
+</details>
+
+---
+
+### 📚 Kho đề Cambridge để tự luyện thêm
+
+Tất cả đều là đề **Discuss both these views and give your own opinion** trong sách Cambridge IELTS (đã đối chiếu bản gốc):
+
+| Đề | Nguồn | Chủ đề |
+|---|---|---|
+| *Some people say that the only reason for learning a foreign language is in order to travel to or work in a foreign country. Others say that these are not the only reasons why someone should learn a foreign language.* | **Cam 11, Test 3** | Ngôn ngữ |
+| *Many governments think that economic progress is their most important goal. Some people, however, think that other types of progress are equally important for a country.* | **Cam 11, Test 4** | Chính phủ / Kinh tế |
+| *Some people think that all university students should study whatever they like. Others believe that they should only be allowed to study subjects that will be useful in the future, such as those related to science and technology.* | **Cam 10, Test 2** | Giáo dục |
+| *In a number of countries, some people think it is necessary to spend large sums of money on constructing new railway lines for very fast trains between cities. Others believe the money should be spent on improving existing public transport.* | **Cam 12, Test 7** ⚠️ | Chi tiêu công |
+| *Some people believe that allowing children to make their own choices on everyday matters (such as food, clothes and entertainment) is likely to result in a society of individuals who only think about their own wishes. Other people believe that it is important for children to make decisions about matters that affect them.* | **Cam 12, Test 8** ⚠️ | Gia đình |
+| *Some people say History is one of the most important school subjects. Other people think that, in today's world, subjects like Science and Technology are more important than History.* | **Cam 13, Test 3** | Giáo dục |
+| *Some people believe that it is best to accept a bad situation, such as an unsatisfactory job or shortage of money. Others argue that it is better to try and improve such situations.* | **Cam 14, Test 1** | Thái độ sống |
+| *Some people say that advertising is extremely successful at persuading us to buy things. Other people think that advertising is so common that we no longer pay attention to it.* | **Cam 15, Test 3** | Quảng cáo |
+| *Some university students want to learn about other subjects in addition to their main subjects. Others believe it is more important to give all their time and attention to studying for a qualification.* | **Cam 18, Test 2** | Giáo dục |
+| *Some people think that competition at work, at school and in daily life is a good thing. Others believe that we should try to cooperate more, rather than competing against each other.* | **Cam 19, Test 1** | Cạnh tranh / Hợp tác |
+
+> ⚠️ **Lưu ý về cách đánh số của Cambridge 12:** Sách Cambridge IELTS 12 Academic đánh số 4 bài test của mình là **Test 5, 6, 7, 8** (không phải 1–4). Rất nhiều website tự đổi lại thành 1–4. Nếu bạn tra trên mạng, "Cam 12 Test 7" trên sách = "Cam 12 Test 3" trên phần lớn website.
+
+---
+
+<a name="17"></a>
+## 17. Lỗi sai phổ biến (và cách sửa)
+
+| # | Lỗi | Cách sửa |
+|---|-----|----------|
+| 1 | **Quên nêu ý kiến cá nhân** (lỗi số 1 của dạng này) | Áp dụng quy tắc **3 LẦN NÊU Ý KIẾN**: intro – body 2 – conclusion |
+| 2 | **Ngồi trên hàng rào** (*"both views are valid, it depends"*) | Phải **chọn một phía**. Nếu đồng ý một phần, hãy nói **cụ thể** đồng ý phần nào |
+| 3 | **Chỉ bàn 1 quan điểm**, bỏ qua quan điểm kia | Bắt buộc 2 body, mỗi body 1 quan điểm, độ dài tương đương |
+| 4 | **Viết quan điểm người khác như của mình** | Body 1 phải có *"Those who argue… contend that…"* trước mỗi lý do |
+| 5 | **Mâu thuẫn giữa intro và conclusion** | Đọc liền 2 câu thesis & câu kết — phải nói cùng một điều |
+| 6 | **Trộn 2 quan điểm trong cùng một đoạn** | Mỗi đoạn = 1 ý chính. Tách rõ ràng |
+| 7 | **Lặp "Some people think… Other people think…"** | Dùng bảng ở mục 7: *proponents argue / advocates maintain / critics point out* |
+| 8 | **Nêu 4 lý do mỗi phía, không giải thích cái nào** | **2 lý do sâu** (P.E.E) > 4 lý do hời hợt |
+| 9 | **Dùng "On the other hand" để thêm ý CÙNG phía** | *On the other hand* chỉ dùng khi **đổi phía**. Cùng phía dùng *Furthermore / Moreover* |
+| 10 | **Thesis kiểu thông báo** (*"This essay will discuss both views"*) | Thesis phải nói opinion **LÀ GÌ**: *"…I would argue that X"* |
+| 11 | **Thêm ý mới trong conclusion** | Conclusion chỉ tóm tắt + khẳng định lập trường |
+| 12 | **Viết dưới 250 từ** | Nhắm **270–300 từ** cho dạng này |
+| 13 | **Nhượng bộ quá nhiều** (3–4 câu *"admittedly"*) | Tối đa **1–2 câu** nhượng bộ trong cả bài |
+| 14 | **Vơ đũa cả nắm** (*"Everyone knows…", "All students are…"*) | Dùng hedging: *most / tend to / in many cases / it is widely accepted that* |
+| 15 | **Dùng từ quá informal** (*kids, a lot of, stuff, big problem*) | Dùng: *children/youngsters, a considerable number of, issues, serious concern* |
+
+> ⚠️ **Lỗi nguy hiểm nhất với người Việt:** Đọc đề thấy có 2 quan điểm nhưng **quên mất cụm "and give your own opinion"** ở cuối. Hãy **khoanh tròn cụm này trên đề thi** ngay khi đọc xong — đó là 1/3 số điểm Task Response.
+
+### Bảng tự chẩn đoán nhanh
+
+| Nếu bài bạn... | Thì bạn đang mất điểm ở |
+|---|---|
+| Không có chữ "I" ở đâu cả | **TR** — thiếu opinion |
+| Có chữ "I" nhưng chỉ ở conclusion | **TR** — opinion chưa phát triển |
+| Body 1 dài 130 từ, Body 2 chỉ 60 từ | **TR + CC** — không cân bằng 2 quan điểm |
+| Mọi câu đều bắt đầu bằng từ nối | **CC** — "mechanical" |
+| Lặp "some people think" 3 lần | **LR** — vốn từ hạn chế |
+| Không có câu nào có *although / while / despite* | **GRA** — thiếu câu phức nhượng bộ |
+
+---
+
+<a name="18"></a>
+## 18. Checklist trước khi nộp + Quản lý thời gian
+
+### ⏱️ Phân bổ 40 phút cho Task 2 (dạng Discussion):
+
+| Thời gian | Việc làm |
+|-----------|----------|
+| **0–2 phút** | Đọc đề, **khoanh tròn "give your own opinion"**, tách 2 quan điểm |
+| **2–3 phút** | **CHỌN LẬP TRƯỜNG** (đừng do dự quá 1 phút) |
+| **3–6 phút** | Brainstorm 2 lý do cho mỗi phía, kẻ bảng 2 cột |
+| **6–9 phút** | Viết Introduction (có thesis nêu rõ lập trường) |
+| **9–20 phút** | Viết Body 1 (quan điểm không đồng ý) |
+| **20–33 phút** | Viết Body 2 (quan điểm đồng ý + opinion + nhượng bộ) |
+| **33–36 phút** | Viết Conclusion |
+| **36–40 phút** | Soát lỗi + đếm từ + **kiểm tra 3 lần nêu ý kiến** |
+
+> 💡 Task 2 chiếm **2/3 điểm Writing**. Nếu buộc phải hy sinh, hãy hy sinh thời gian của Task 1 — không bao giờ hy sinh Task 2.
+
+### ✅ Checklist 60 giây cuối:
+
+**Nhóm A — Task Response (quan trọng nhất):**
+- [ ] Đã trình bày **CẢ HAI** quan điểm, mỗi quan điểm một đoạn riêng?
+- [ ] Ý kiến cá nhân xuất hiện **ĐỦ 3 LẦN** (intro – body 2 – conclusion)?
+- [ ] Ba lần đó có nói **CÙNG MỘT ĐIỀU** không (không mâu thuẫn)?
+- [ ] Mỗi quan điểm có ít nhất **1 lý do được phát triển đầy đủ** (P.E.E)?
+- [ ] Có **ví dụ cụ thể** (không chỉ nói chung chung)?
+
+**Nhóm B — Coherence & Cohesion:**
+- [ ] Body 1 và Body 2 có độ dài **tương đương** (chênh nhau dưới 30 từ)?
+- [ ] Có câu **chuyển đoạn** rõ giữa Body 1 và Body 2?
+- [ ] Không trộn 2 quan điểm trong cùng một đoạn?
+
+**Nhóm C — Lexical & Grammar:**
+- [ ] Không lặp *"some people think"* quá 1 lần?
+- [ ] Có ít nhất **1 câu nhượng bộ** (*although / while / admittedly*)?
+- [ ] Có mệnh đề quan hệ (*which / that*) và câu bị động?
+- [ ] Không có từ informal (*kids, stuff, a lot of, gonna*)?
+
+**Nhóm D — Cơ bản:**
+- [ ] Đủ **250+ từ** (nhắm 270–300)?
+- [ ] Intro đã paraphrase, không copy đề?
+- [ ] Conclusion không có ý mới?
+- [ ] Chính tả, dấu câu, số ít/số nhiều?
+
+---
+
+<a name="19"></a>
+## 19. Ngân hàng cụm từ "ăn liền"
+
+### 🟢 Introduction — câu 1 (nêu chủ đề tranh cãi)
+- *The question of whether [X] **has long been a subject of debate**.*
+- *[X] **is an issue that continues to divide opinion**.*
+- *There is **considerable disagreement** over whether [X].*
+- *Opinions **are sharply divided** on the question of [X].*
+- *In recent years, [X] **has become the focus of heated discussion**.*
+
+### 🟢 Introduction — câu 2 (nêu 2 quan điểm)
+- ***While some maintain that** [A], **others argue that** [B].*
+- ***One school of thought holds that** [A]; **an opposing view contends that** [B].*
+- ***Some commentators favour** [A], **whereas others insist on** [B].*
+
+### 🟢 Introduction — câu 3 (THESIS — bắt buộc có)
+- ***Although both positions have merit, I would argue that** [lập trường].*
+- ***While I acknowledge the strength of the first view, I believe that** [lập trường].*
+- ***This essay will examine both arguments before explaining why I side with** [phía nào].*
+- ***Having considered both sides, I am firmly of the view that** [lập trường].*
+
+### 🟢 Mở đầu Body 1 — quan điểm thứ nhất
+- ***There are several compelling arguments in favour of** [A].*
+- ***Those who advocate** [A] **base their case on**…*
+- ***Supporters of** [A] **argue that**…*
+- ***One school of thought holds that**…*
+- ***The principal argument for** [A] **is that**…*
+
+### 🟢 Thêm lý do CÙNG phía (trong cùng body)
+- ***They further contend that**…*
+- ***A related argument is that**…*
+- ***Furthermore / Moreover / In addition**,…*
+- ***Proponents also point out that**…*
+- ***A second consideration is**…*
+
+### 🟢 Mở đầu Body 2 — chuyển phía + nêu opinion
+- ***Nevertheless, I find the case for** [B] **considerably more persuasive**.*
+- ***On the other hand, I am inclined to agree with those who argue that** [B].*
+- ***Despite these considerations, I would contend that** [B] **is the wiser approach**.*
+- ***In my view, however, the arguments for** [B] **carry greater weight**.*
+- ***I am more convinced, however, by the argument that** [B].*
+
+### 🟢 Nhượng bộ (concession)
+- ***Admittedly**, … **However**, …*
+- ***It is true that** …, **but** …*
+- ***While it may be argued that** …, …*
+- ***This concern is understandable; nevertheless**, …*
+- ***Granted**, … **Even so**, …*
+
+### 🟢 Phản biện (refutation)
+- ***This view, however, overlooks** the fact that…*
+- ***Such an argument fails to account for**…*
+- ***This objection loses much of its weight when**…*
+- ***This concern is arguably overstated**, since…*
+- ***Critics underestimate** the extent to which…*
+
+### 🟢 Nêu ví dụ
+- ***For instance / For example**,…*
+- ***A case in point is**…*
+- ***Take [X], for example.***
+- ***In [country], for instance**,…*
+- ***This can be clearly seen in**…*
+
+### 🟢 Conclusion
+- ***In conclusion, while** [quan điểm A tóm tắt], **I firmly believe that** [lập trường].*
+- ***On balance**, although [A] **has some validity**, [B] **offers the more convincing case**.*
+- ***To conclude**, the arguments on both sides **are not without merit**, **but in my view** [lập trường].*
+- ***All things considered**, I remain convinced that [lập trường].*
+
+### 🟢 Cụm HEDGING (tránh vơ đũa cả nắm — rất quan trọng)
+
+| ❌ Tuyệt đối hoá | ✅ Hedging |
+|---|---|
+| *All students are…* | ***Most** students **tend to** be…* |
+| *This always causes…* | *This **frequently** causes…* / *This **often** leads to…* |
+| *Everyone knows that…* | ***It is widely accepted that**…* |
+| *This will definitely…* | *This **is likely to** / **could well**…* |
+| *X is the best solution.* | *X **appears to be** the most effective approach.* |
+
+### 🟢 Collocations "ăn điểm" theo chủ đề tranh cãi
+
+| Chủ đề | Collocations hay |
+|--------|-----------------|
+| **Giáo dục** | *academic performance, well-rounded education, critical thinking skills, rote learning, tailored to individual needs, lifelong learning* |
+| **Công nghệ** | *digital divide, screen time, technological advancement, data privacy, automate routine tasks, human interaction* |
+| **Môi trường** | *carbon footprint, sustainable development, renewable energy, environmental degradation, at the expense of the environment* |
+| **Chính phủ & chi tiêu công** | *public funding, allocate resources, taxpayers' money, government intervention, budget constraints, prioritise spending* |
+| **Việc làm** | *job satisfaction, work–life balance, career prospects, financial security, transferable skills, workforce* |
+| **Xã hội & gia đình** | *social cohesion, family bonds, generation gap, cultural identity, community engagement, civic duty* |
+| **Tội phạm & luật** | *deterrent effect, rehabilitation, custodial sentence, crime rate, repeat offending, restorative justice* |
+| **Sức khỏe** | *public health, preventive measures, healthcare provision, mental wellbeing, sedentary lifestyle, life expectancy* |
+| **Toàn cầu hoá & du lịch** | *cultural exchange, economic growth, loss of local identity, multinational corporations, sustainable tourism* |
+
+---
+
+## 🎓 LỘ TRÌNH HỌC ĐỀ XUẤT (6 tuần từ Band 4 lên Band 7)
+
+| Tuần | Mục tiêu | Hành động |
+|------|----------|-----------|
+| **1** | Nắm cấu trúc & quy tắc 3 lần nêu ý kiến | Học thuộc mục 2 (3 lần nêu ý kiến) và mục 4 (cấu trúc). Chép tay bài mẫu mục 15 **hai lần**. Chưa cần viết bài. |
+| **2** | Tách bạch "họ nghĩ" vs "tôi nghĩ" | Học mục 7 & 8. Lấy 5 đề Discussion bất kỳ, **chỉ viết Introduction** (3 câu, có thesis) cho mỗi đề — 15 phút/đề. |
+| **3** | Luyện phát triển ý (P.E.E) | Học mục 6. Lấy 4 lý do bất kỳ, viết mỗi lý do thành đoạn 3 câu theo P.E.E. So sánh với bảng band 5 vs band 7. |
+| **4** | Viết bài hoàn chỉnh đầu tiên | Làm **Luyện tập 1**, không bấm giờ. Đối chiếu đáp án, sửa lỗi theo mục 17. Viết lại bản sạch. |
+| **5** | Thêm nhượng bộ & phản biện | Học mục 9. Làm **Luyện tập 2 & 3**, mỗi bài **bắt buộc** có 1 câu nhượng bộ ở Body 2. Bấm giờ 40 phút. |
+| **6** | Hoàn thiện & phản xạ | Làm **Luyện tập 4** + 3 đề Cambridge tự tìm. Tự chấm bằng checklist mục 18. Mục tiêu: viết xong trong **35 phút**. |
+
+> **Nguyên tắc bất biến để đạt 7.0 ở dạng Discuss Both Views:**
+> *Trình bày công bằng cả 2 quan điểm + Ý kiến cá nhân xuất hiện 3 lần và nhất quán + Mỗi phía có lý do phát triển sâu (P.E.E) + Một câu nhượng bộ – phản biện + Ngôn ngữ tách bạch "họ" và "tôi".*
+>
+> Năm yếu tố này lặp lại trong **mọi** đề Discussion. Luyện đến mức **phản xạ** là bạn chạm band.
+
+---
+
+*Tài liệu này được thiết kế cho người học IELTS từ band 4.0 đến 7.0+. Kết hợp với:*
+- *IELTS-Writing-Task2-Agree-Disagree-Guide.md — Dạng nêu ý kiến một chiều*
+- *IELTS-Writing-Task2-Problems-Solutions-Guide.md — Dạng vấn đề & giải pháp*
+- *IELTS-Writing-Task2-Causes-Effects-Guide.md — Dạng nguyên nhân & hậu quả*
+
+*Chúc bạn luyện thi hiệu quả! 💪*
