@@ -1170,6 +1170,7 @@ Tất cả đều là đề **Discuss both these views and give your own opinion
 
 *Tài liệu này được thiết kế cho người học IELTS từ band 4.0 đến 7.0+. Kết hợp với:*
 - *IELTS-Writing-Task2-Agree-Disagree-Guide.md — Dạng nêu ý kiến một chiều*
+- *IELTS-Writing-Task2-Advantages-Disadvantages-Guide.md — Dạng lợi ích & bất lợi*
 - *IELTS-Writing-Task2-Problems-Solutions-Guide.md — Dạng vấn đề & giải pháp*
 - *IELTS-Writing-Task2-Causes-Effects-Guide.md — Dạng nguyên nhân & hậu quả*
 
